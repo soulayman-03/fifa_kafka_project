@@ -1,0 +1,13 @@
+# Ignore Kafka logs and data
+*.log
+*.json
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore any Kafka temporary directories if applicable
+/kafka-logs/
+/zookeeper-data/
