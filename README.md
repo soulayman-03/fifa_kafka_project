@@ -161,12 +161,6 @@ RETURN t.name, count(*) AS goals
 
 ---
 
-## 📜 License
-
-MIT License – Free to use and modify.
-
----
-
 ## 🙋 Author
 
 Developed by **Soulaimane Ait Ahmed Oulhaj** – Master AIDC @ FST Béni Mellal
